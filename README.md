@@ -45,11 +45,15 @@ This repository is designed to provide you with hands-on experience and in-depth
 1.1 Agents and environments  
 1.2 State-space modeling  
 1.3 Graph search algorithms  
-1.4 Heuristic search with A*  
+1.4 Heuristic search with A* 
 
 **Libraries:** `NetworkX`, `OSMnx`, `heapq`, `matplotlib`
 
 **Datasets:** OpenStreetMap, campus transportation networks
+
+**Slides:** 
+
+[<img src="https://img.icons8.com/color/24/microsoft-powerpoint-2019--v1.png" width="20"/> Unit 1: Intelligent Agents, Graph Search, and Route Planning](https://1drv.ms/p/c/bf73bd49f8489bb2/IQDkKg-h62k5SoKtowX-qiEtASEYWP68n6IHcvt4Q_aczY8)
 
 **Notebooks:**
 
