@@ -52,8 +52,10 @@ This repository is designed to provide you with hands-on experience and in-depth
 **Datasets:** OpenStreetMap, campus transportation networks
 
 **Slides:** 
+[Intelligent Agents, Graph Search, and Route Planning](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%201.%20Intelligent%20Agents%2C%20Graph%20Search%2C%20and%20Route%20Planning/lecture0.key)
 
-[<img src="https://img.icons8.com/color/24/microsoft-powerpoint-2019--v1.png" width="20"/> Unit 1: Intelligent Agents, Graph Search, and Route Planning](https://1drv.ms/p/c/bf73bd49f8489bb2/IQDkKg-h62k5SoKtowX-qiEtASEYWP68n6IHcvt4Q_aczY8)
+**Assignment:**
+[Writing the code for A*]()
 
 **Notebooks:**
 
