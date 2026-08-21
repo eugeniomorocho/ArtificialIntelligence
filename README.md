@@ -54,12 +54,11 @@ This repository is designed to provide you with hands-on experience and in-depth
 **Slides:** 
 [Intelligent Agents, Graph Search, and Route Planning](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%201.%20Intelligent%20Agents%2C%20Graph%20Search%2C%20and%20Route%20Planning/lecture0.key)
 
+**Source Code:**
+[Maze solving with BFS and DFS](https://github.com/eugeniomorocho/ArtificialIntelligence/tree/main/Unit%201.%20Intelligent%20Agents%2C%20Graph%20Search%2C%20and%20Route%20Planning/src0)
+
 **Assignment:**
-[Writing the code for A*]()
-
-**Notebooks:**
-
-*Coming soon.*
+[Writing the Python code for A*](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%201.%20Intelligent%20Agents%2C%20Graph%20Search%2C%20and%20Route%20Planning/campus_route_planner_CHALLENGE.md)
 
 ---
 
