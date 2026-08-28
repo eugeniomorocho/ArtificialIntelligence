@@ -61,18 +61,17 @@ Show — with printed numbers, a plot, or both — how your custom-cost route co
 - [ ] Comparison between baseline (BDs, DFS) and custom route, shown with evidence
 - [ ] Runs top to bottom without errors
 
-## When you finish
-
-Call the instructor over. In about 5 minutes, explain:
-1. How your frontier/priority queue works.
-2. What heuristic you used and why it's admissible.
-3. Your custom cost criterion — what it rewards or penalizes, and why.
-4. One limitation, or one thing you'd improve with more time.
-
-If you don't finish in class, you'll get the same check next session before submitting.
-
-## Grading (PASS / FAIL)
+## Grading Rubric
 
 **PASS:** A* is genuinely your own search logic (not a wrapped library call), it matches the baseline on default cost, the custom cost has a real criterion behind it, and you can explain all of it live, in your own words.
 
-**FAIL:** the "search" is just a call to a built-in shortest-path function with no frontier logic of your own, or you can't explain what your code does when asked.
+- [ ] Explanation of the graph structure (1/1)
+- [ ] Explanation of the selected heuristic (2/2)
+- [ ] Explanation of the custom cost function (2/2)
+- [ ] Explanation of the A* implementation (3/3)
+- [ ] Comparison of the baseline and custom-cost routes (2/2)
+
+Penalties:
+- **Language:** Use of Spanish in the code or presentation: -5 points.
+- **Time management:** -1 point per minute after the 5 min mark.
+- **Late presentation:** -1 point per minute late, up to 10 points.
