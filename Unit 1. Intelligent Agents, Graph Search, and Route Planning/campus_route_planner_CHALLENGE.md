@@ -23,7 +23,7 @@ Minimum size: about 15–20 nodes. Trivial 4-node examples don't give A* anythin
 **2. A* implemented by you**
 Your code must manage its own frontier (priority queue) using
 
-```
+```python
 f(n) = g(n) + h(n)
 ```
 
@@ -47,8 +47,6 @@ Show — with printed numbers, a plot, or both — how your custom-cost route co
 
 ## Constraints
 
-- **Language:** Python. Any version, any libraries.
-- **Time:** ~2 hours.
 - No required library. NetworkX, OSMnx, `heapq` with your own dictionaries, igraph, or something else entirely — your call.
 
 ## Definition of done
@@ -59,11 +57,10 @@ Show — with printed numbers, a plot, or both — how your custom-cost route co
 - [ ] Your A* matches a known-correct shortest path when cost = distance (this is your proof it actually works)
 - [ ] Custom cost function implemented, with a stated criterion
 - [ ] Comparison between baseline (BDs, DFS) and custom route, shown with evidence
-- [ ] Runs top to bottom without errors
 
 ## Grading Rubric
 
-**PASS:** A* is genuinely your own search logic (not a wrapped library call), it matches the baseline on default cost, the custom cost has a real criterion behind it, and you can explain all of it live, in your own words.
+**PASS:** A* is your own search logic (not a wrapped library call), it matches the baseline on default cost, the custom cost has a real criterion behind it, and you can explain all of it live, in your own words.
 
 - [ ] Explanation of the graph structure (1/1)
 - [ ] Explanation of the selected heuristic (2/2)
@@ -72,6 +69,7 @@ Show — with printed numbers, a plot, or both — how your custom-cost route co
 - [ ] Comparison of the baseline and custom-cost routes (2/2)
 
 Penalties:
+
 - **Language:** Use of Spanish in the code or presentation: -5 points.
 - **Time management:** -1 point per minute after the 5 min mark.
 - **Late presentation:** -1 point per minute late, up to 10 points.
