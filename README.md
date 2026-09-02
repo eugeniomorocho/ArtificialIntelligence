@@ -135,17 +135,17 @@ Explainability and error analysis
 **Notebooks:**
 
 1. EDA — Titanic dataset  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Test%20solution%20-%20An%C3%A1lisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
 
 - **Assignment 5.1**: Hipotesis testing and EDA on the Titanic dataset.
 
 2. EDA — California Housing Prices  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Test%20solution%20-%20An%C3%A1lisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
 
-- **Assignment 5.2**: EDA on the California Housing Prices dataset with Profile Report and solved quiz.
+- **Assignment 5.2**: EDA on the California Housing Prices dataset with Profile Report and solved [quiz](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Quiz%20(Data%20Profiler).docx).
 
 3. Feature engineering — handling outliers and group-wise operations (e-commerce)  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Test%20solution%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20e-commerce.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
 
 - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset.
 
