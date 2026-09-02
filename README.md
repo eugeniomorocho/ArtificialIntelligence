@@ -123,8 +123,8 @@ Inference under uncertainty
 
 **Topics:**
 
-Regression and classification  
 Feature engineering  
+Regression and classification   
 Validation and leakage  
 Explainability and error analysis  
 
@@ -134,8 +134,9 @@ Explainability and error analysis
 
 **Notebooks:**
 
-1. EDA — Titanic dataset  
+1. EDA (Part 1) — Titanic dataset  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
+[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/bp75s8ta3pcf9mz) 
 
 - **Assignment 5.1**: Hipotesis testing and EDA on the Titanic dataset.
 
