@@ -151,12 +151,12 @@ Explainability and error analysis
 
 - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset.
 
-4. Unsupervised learning — $k$Means customer segmentation  
+4. Unsupervised learning — $k$-Means customer segmentation  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
 
-- **Assignment 5.4**: Search the optimal value of $k$ for $k$Means clustering on the mall customers dataset.
+- **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on the mall customers dataset.
 
-5. Classification — kNN on the Iris dataset  
+5. Classification — $k$-NN on the Iris dataset  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Clasificaci%C3%B3n%20de%20IRIS%20con%20kNN.ipynb)
 
 - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$.
