@@ -146,6 +146,7 @@ Explainability and error analysis
 
 3. Feature engineering — handling outliers and group-wise operations (e-commerce)  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
+[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/e9he403kigpezsd) 
 
 - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset.
 
