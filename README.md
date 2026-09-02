@@ -130,14 +130,45 @@ Explainability and error analysis
 
 **Libraries:** `scikit-learn`, `statsmodels`
 
-**Datasets:** Medical Cost Personal Dataset, Housing datasets
+**Datasets:** Medical Cost Personal Dataset, Housing datasets, Titanic, California Housing, Palmer Penguins, mall customers
 
 **Notebooks:**
 
-1. Linear regression to predict medical charges  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/4.%20Supervised%20Learning%20(modeling%20and%20evaluation)/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
+1. EDA — Titanic dataset  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Test%20solution%20-%20An%C3%A1lisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
 
-*Lab 5-1 and 5-2 coming soon.*
+2. EDA — California Housing Prices  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Test%20solution%20-%20An%C3%A1lisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
+
+3. Feature engineering — scaling, balancing, and normalizing data  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Lecture%20-%20The%20importance%20of%20scaling%2C%20balancing%2C%20and%20normalizing%20data.ipynb)
+
+4. Feature engineering — handling outliers and group-wise operations (e-commerce)  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Test%20solution%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20e-commerce.ipynb)
+
+5. Regression — linear regression to predict medical charges  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
+
+6. Classification — kNN on the Iris dataset  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Clasificaci%C3%B3n%20de%20IRIS%20con%20kNN.ipynb)
+
+7. Classification — tree-based models  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Tree-based%20models.ipynb)
+
+8. Classification — ensemble models  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Ensemble%20Models.ipynb)
+
+9. Validation — hyperparameter search (grid and random search)  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Hyperparameter%20search%20(grid%20and%20random%20search).ipynb)
+
+10. Error analysis — evaluation metrics  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Metrics.ipynb)
+
+11. Explainability — SHAP and LIME  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Explainable%20AI%20(SHAP%20and%20LIME).ipynb)
+
+12. (Bonus) Unsupervised learning — KMeans customer segmentation  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
 
 ---
 
@@ -152,11 +183,26 @@ Foundation-model overview
 
 **Libraries:** `TensorFlow`, `Keras`, `OpenCV`
 
-**Datasets:** CIFAR-10, custom image datasets
+**Datasets:** CIFAR-10, custom image datasets, Breast Cancer Wisconsin, Palmer Penguins, diabetes dataset
 
 **Notebooks:**
 
-*Coming soon.*
+1. MLP classifier fundamentals  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/MLPClassifier.ipynb)
+
+2. MLP classifier — Breast Cancer Wisconsin  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/MLPClassifier%20-%20Breast%20Cancer%20Wisconsin.ipynb)
+
+3. Neural network — diabetes prediction  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Lectura%20-%20Predicci%C3%B3n%20de%20diabetes%20con%20una%20red%20neuronal.ipynb)
+
+4. Activation functions  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Activation%20Functions.ipynb)
+
+5. Test — Palmer Penguins classification with an MLP  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb) · [Solution](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20solution%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb)
+
+*CNN fundamentals, transfer learning, and foundation-model labs coming soon.*
 
 ---
 
