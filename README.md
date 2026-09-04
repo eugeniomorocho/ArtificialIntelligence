@@ -158,7 +158,7 @@ Explainability and error analysis
 3. Unsupervised Learning
 
    $k$-Means customer segmentation  
-   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.3%20Unsupervised%20Learning/Clustering%20Mall%20Customers%20with%20KMeans.ipynb)
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/blob/main/3.%20Unsupervised%20Learning/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/vlp33mhb137mnkl)  
 
    - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. (***presentation required***)
