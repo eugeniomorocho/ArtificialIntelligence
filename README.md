@@ -134,54 +134,66 @@ Explainability and error analysis
 
 **Notebooks:**
 
-1. EDA (Part 1) — Titanic dataset  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
-[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/bp75s8ta3pcf9mz) 
+1. Exploratory Data Analysis
 
-- **Assignment 5.1**: Hipotesis testing and EDA on the Titanic dataset.
+   *Titanic*  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/bp75s8ta3pcf9mz) 
 
-2. EDA — California Housing Prices  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
+   - **Assignment 5.1**: Hipotesis testing and EDA on the Titanic dataset.
 
-- **Assignment 5.2**: EDA on the California Housing Prices dataset with Profile Report and solved [quiz](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Quiz%20(Data%20Profiler).docx).
+   *California Housing Prices*  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
 
-3. Feature engineering — handling outliers and group-wise operations (e-commerce)  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
-[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/e9he403kigpezsd) 
+   - **Assignment 5.2**: EDA on the California Housing Prices dataset with Profile Report and solved [quiz](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Quiz%20(Data%20Profiler).docx).
 
-- **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset.
+2. Feature engineering
 
-4. Unsupervised learning — $k$-Means customer segmentation  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
+   *Handling outliers and group-wise operations (e-commerce)*  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/e9he403kigpezsd) 
 
-- **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on the mall customers dataset.
+   - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset. (***presentation required***)
 
-5. Classification — $k$-NN on the Iris dataset  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Clasificaci%C3%B3n%20de%20IRIS%20con%20kNN.ipynb)
+3. Unsupervised Learning
 
-- **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$.
+   $k$-Means customer segmentation  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.3%20Unsupervised%20Learning/Clustering%20Mall%20Customers%20with%20KMeans.ipynb)
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/vlp33mhb137mnkl)  
 
-6. Feature engineering — scaling, balancing, and normalizing data  
+   - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. (***presentation required***)
+
+4. Supervised Learning
+
+   *Classification*
+
+   $k$-NN on the Iris dataset  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20Learning/IRIS%20Classification%20with%20kNN.ipynb)
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/9rmsg0i4fiocn1d) 
+
+   - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$.
+
+5. Feature engineering — scaling, balancing, and normalizing data  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Lecture%20-%20The%20importance%20of%20scaling%2C%20balancing%2C%20and%20normalizing%20data.ipynb)
 
 - **Assignment 5.6**: Optimal sampling strategy on a new database.
 
-7. Regression — linear regression to predict medical charges  
+6. Regression — linear regression to predict medical charges  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
 
-8. Classification — tree-based models  
+7. Classification — tree-based models  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Tree-based%20models.ipynb)
 
-9. Classification — ensemble models  
+8. Classification — ensemble models  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Ensemble%20Models.ipynb)
 
-10. Validation — hyperparameter search (grid and random search)  
+9. Validation — hyperparameter search (grid and random search)  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Hyperparameter%20search%20(grid%20and%20random%20search).ipynb)
 
-11. Error analysis — evaluation metrics  
+10. Error analysis — evaluation metrics  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Metrics.ipynb)
 
-12. Explainability — SHAP and LIME  
+11. Explainability — SHAP and LIME  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Explainable%20AI%20(SHAP%20and%20LIME).ipynb)
 
 ---
