@@ -153,7 +153,7 @@ Explainability and error analysis
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/e9he403kigpezsd) 
 
-   - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset. (***presentation required***)
+   - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset. 
 
 3. Unsupervised Learning
 
@@ -171,7 +171,7 @@ Explainability and error analysis
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20Learning/IRIS%20Classification%20with%20kNN.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/9rmsg0i4fiocn1d) 
 
-   - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$.
+   - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$. (***presentation required***)
 
 5. Feature engineering — scaling, balancing, and normalizing data  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Lecture%20-%20The%20importance%20of%20scaling%2C%20balancing%2C%20and%20normalizing%20data.ipynb)
