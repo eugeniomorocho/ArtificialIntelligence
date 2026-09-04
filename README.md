@@ -161,7 +161,7 @@ Explainability and error analysis
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/blob/main/3.%20Unsupervised%20Learning/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/vlp33mhb137mnkl)  
 
-   - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. (***presentation required***)
+   - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. Pick any database from [here](https://www.datosabiertos.gob.ec) (***presentation required***).
 
 4. Supervised Learning
 
@@ -171,7 +171,7 @@ Explainability and error analysis
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20Learning/IRIS%20Classification%20with%20kNN.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/9rmsg0i4fiocn1d) 
 
-   - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$. (***presentation required***)
+   - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$ (***presentation required***).
 
 5. Feature engineering — scaling, balancing, and normalizing data  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Lecture%20-%20The%20importance%20of%20scaling%2C%20balancing%2C%20and%20normalizing%20data.ipynb)
