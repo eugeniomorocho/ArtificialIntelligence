@@ -215,6 +215,7 @@ Foundation-model overview
 
 1. MLP classifier fundamentals  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/MLPClassifier.ipynb)
+[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/ae2wihvl91llh5k) 
 
 2. MLP classifier — Breast Cancer Wisconsin  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/MLPClassifier%20-%20Breast%20Cancer%20Wisconsin.ipynb)
