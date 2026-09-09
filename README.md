@@ -134,11 +134,11 @@ Explainability and error analysis
 
 **Notebooks:**
 
-1. Exploratory Data Analysis
+1. Exploratory data analysis (EDA)
 
    *Titanic*  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
-   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/bp75s8ta3pcf9mz) 
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/bp75s8ta3pcf9mz)  
 
    - **Assignment 5.1**: Hipotesis testing and EDA on the Titanic dataset.
 
@@ -155,7 +155,7 @@ Explainability and error analysis
 
    - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset. 
 
-3. Unsupervised Learning
+3. Unsupervised learning
 
    $k$-Means customer segmentation  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/blob/main/3.%20Unsupervised%20Learning/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
@@ -163,7 +163,7 @@ Explainability and error analysis
 
    - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. Pick any database from [here](https://www.datosabiertos.gob.ec) (***presentation required***).
 
-4. Supervised Learning
+4. Supervised learning
 
    *Classification*
 
