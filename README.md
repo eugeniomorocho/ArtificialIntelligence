@@ -169,12 +169,15 @@ Explainability and error analysis
 
    $k$-NN on the Iris dataset  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20Learning/IRIS%20Classification%20with%20kNN.ipynb)
-   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/9rmsg0i4fiocn1d) 
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/9rmsg0i4fiocn1d)  
+   **Dataset:** [Iris](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)  
+   **Model:** [`KNeighborsClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
    - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$ (***presentation required***).
 
 5. Feature engineering — scaling, balancing, and normalizing data  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Lecture%20-%20The%20importance%20of%20scaling%2C%20balancing%2C%20and%20normalizing%20data.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Lecture%20-%20The%20importance%20of%20scaling%2C%20balancing%2C%20and%20normalizing%20data.ipynb)  
+**Dataset:**  [UCI ML Wine Data Set](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
 
 - **Assignment 5.6**: Optimal sampling strategy on a new database.
 
@@ -211,24 +214,27 @@ Foundation-model overview
 
 **Datasets:** CIFAR-10, custom image datasets, Breast Cancer Wisconsin, Palmer Penguins, diabetes dataset
 
-**Notebooks:**
+**Notebooks:**  
 
-1. Predicting penguin species with an MLP + MS Excel inference  
+#### 6.1. Predicting penguin species with an MLP + MS Excel inference  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/MLPClassifier.ipynb)
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/ae2wihvl91llh5k)  
 **Dataset:**  [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins)  
 **Model:** [`MLPClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
 
-2. Predicting diabetes with a Keras' sequential Neural Network  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/MLPClassifier%20-%20Breast%20Cancer%20Wisconsin.ipynb)
+#### 6.2. Predicting diabetes with a Keras' sequential Neural Network + TensorBoard  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Predicting%20diabetes%20with%20a%20Keras%20NN.ipynb) 
+[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/3rm32wsg6q369no)  
+**Dataset:**  [Pima Indians Diabetes](https://github.com/allisonhorst/palmerpenguins)  
+**Model, Callbacks and Optimizers:** [`The Sequential model (Keras)`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html), [`TensorBoard`](https://www.tensorflow.org/tensorboard), [`EarlyStopping`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping), [`Keras Tuner`](https://keras.io/keras_tuner/)
 
-3. Neural network — diabetes prediction  
+#### 6.3. Neural network — diabetes prediction    
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Lectura%20-%20Predicci%C3%B3n%20de%20diabetes%20con%20una%20red%20neuronal.ipynb)
 
-4. Activation functions  
+#### 6.4. Activation functions  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Activation%20Functions.ipynb)
 
-5. Test — Palmer Penguins classification with an MLP  
+#### 6.5. Test — Palmer Penguins classification with an MLP  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb) · [Solution](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20solution%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb)
 
 *CNN fundamentals, transfer learning, and foundation-model labs coming soon.*
