@@ -134,20 +134,20 @@ Explainability and error analysis
 
 **Notebooks:**
 
-1. Exploratory data analysis (EDA)
+#### 5.1. Exploratory data analysis (EDA)
 
-   *Titanic*  
+   ##### *Titanic*  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/bp75s8ta3pcf9mz)  
 
    - **Assignment 5.1**: Hipotesis testing and EDA on the Titanic dataset.
 
-   *California Housing Prices*  
+   ##### *California Housing Prices*  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
 
    - **Assignment 5.2**: EDA on the California Housing Prices dataset with Profile Report and solved [quiz](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Quiz%20(Data%20Profiler).docx).
-
-2. Feature engineering
+   
+#### 5.2. Feature engineering
 
    *Handling outliers and group-wise operations (e-commerce)*  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
@@ -155,7 +155,7 @@ Explainability and error analysis
 
    - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset. 
 
-3. Unsupervised learning
+#### 5.3. Unsupervised learning
 
    $k$-Means customer segmentation  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/blob/main/3.%20Unsupervised%20Learning/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
@@ -163,7 +163,7 @@ Explainability and error analysis
 
    - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. Pick any database from [here](https://www.datosabiertos.gob.ec) (***presentation required***).
 
-4. Supervised learning
+#### 5.4. Supervised learning
 
    *Classification*
 
@@ -228,13 +228,7 @@ Foundation-model overview
 **Dataset:**  [Pima Indians Diabetes](https://github.com/allisonhorst/palmerpenguins)  
 **Model, Callbacks and Optimizers:** [`The Sequential model (Keras)`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html), [`TensorBoard`](https://www.tensorflow.org/tensorboard), [`EarlyStopping`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping), [`Keras Tuner`](https://keras.io/keras_tuner/)
 
-#### 6.3. Neural network — diabetes prediction    
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Lectura%20-%20Predicci%C3%B3n%20de%20diabetes%20con%20una%20red%20neuronal.ipynb)
-
-#### 6.4. Activation functions  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Activation%20Functions.ipynb)
-
-#### 6.5. Test — Palmer Penguins classification with an MLP  
+#### 6.3. Classifying Cats and Dogs images with a CNN + Transfer learning  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb) · [Solution](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20solution%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb)
 
 *CNN fundamentals, transfer learning, and foundation-model labs coming soon.*
