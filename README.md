@@ -153,6 +153,10 @@ Explainability and error analysis
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/e9he403kigpezsd) 
 
+   *Feature scaling and normalization*  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.2%20Feature%20engineering/The%20importance%20of%20scaling%20and%20balancing%20data.ipynb)  
+   **Dataset:**  [UCI ML Wine Data Set](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
+
    - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset. 
 
 #### 5.3. Unsupervised learning
@@ -175,28 +179,24 @@ Explainability and error analysis
 
    - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$ (***presentation required***).
 
-5. Feature engineering — scaling, balancing, and normalizing data  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Lecture%20-%20The%20importance%20of%20scaling%2C%20balancing%2C%20and%20normalizing%20data.ipynb)  
-**Dataset:**  [UCI ML Wine Data Set](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
-
-- **Assignment 5.6**: Optimal sampling strategy on a new database.
-
-6. Regression — linear regression to predict medical charges  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
-
-7. Classification — tree-based models  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Tree-based%20models.ipynb)
-
-8. Classification — ensemble models  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Ensemble%20Models.ipynb)
-
-9. Validation — hyperparameter search (grid and random search)  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Hyperparameter%20search%20(grid%20and%20random%20search).ipynb)
-
-10. Error analysis — evaluation metrics  
+Error analysis — evaluation metrics  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Metrics.ipynb)
 
-11. Explainability — SHAP and LIME  
+Regression — linear regression to predict medical charges  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
+
+Classification — tree-based models  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Tree-based%20models.ipynb)
+
+Classification — ensemble models  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Ensemble%20Models.ipynb)
+
+Validation — hyperparameter search (grid and random search)  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Hyperparameter%20search%20(grid%20and%20random%20search).ipynb)
+
+
+
+Explainability — SHAP and LIME  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Explainable%20AI%20(SHAP%20and%20LIME).ipynb)
 
 Assignment 5.1 (Titanic): 1pt  
