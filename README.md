@@ -229,7 +229,10 @@ Foundation-model overview
 **Model, Callbacks and Optimizers:** [`The Sequential model (Keras)`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html), [`TensorBoard`](https://www.tensorflow.org/tensorboard), [`EarlyStopping`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping), [`Keras Tuner`](https://keras.io/keras_tuner/)
 
 #### 6.3. Classifying Cats and Dogs images with a CNN + Transfer learning  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb) · [Solution](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Test%20solution%20-%20Clasificaci%C3%B3n%20de%20pinguinos%20de%20la%20Isla%20Palmer%20con%20un%20MLP.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/6.3%20Convolutional%20Neural%20Networks%20(CNN)/6.3.1%20Image%20classification/Dogs%20vs.%20Cats%20Image%20Classification%20with%20VGG16.ipynb) 
+[![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/vwl4ht1uqlcpv64)  
+**Dataset:**  [Microsoft Cats and Dogs](https://www.microsoft.com/en-us/download/details.aspx?id=54765)  
+**Model, Callbacks and Optimizers:** [`The Sequential model (Keras)`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html), [`VGG16 function`](https://keras.io/api/applications/vgg/#vgg16-function), [`EarlyStopping`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping), [Dropout Layer](https://keras.io/api/layers/regularization_layers/dropout/)
 
 *CNN fundamentals, transfer learning, and foundation-model labs coming soon.*
 
