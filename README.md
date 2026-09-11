@@ -199,6 +199,12 @@ Explainability and error analysis
 11. Explainability — SHAP and LIME  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Explainable%20AI%20(SHAP%20and%20LIME).ipynb)
 
+Assignment 5.1 (Titanic): 1pt  
+Assignment 5.2 (California + quiz): 2pt  
+Assignment 5.3 (e-commerce): 1pt  
+Assignment 5.4 (k-Means presentation): 3pts  
+Assignment 5.5 (k-NN presentation): 3pts
+
 ---
 
 ### **Unit 6: Neural Models, Vision, and Foundation Models**
@@ -235,6 +241,11 @@ Foundation-model overview
 **Model, Callbacks and Optimizers:** [`The Sequential model (Keras)`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html), [`VGG16 function`](https://keras.io/api/applications/vgg/#vgg16-function), [`EarlyStopping`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping), [Dropout Layer](https://keras.io/api/layers/regularization_layers/dropout/)
 
 *CNN fundamentals, transfer learning, and foundation-model labs coming soon.*
+
+Assignment 6.1 (MLP + Excel): 1pt
+Assignment 6.2 (Keras + TensorBoard): 2pts
+Assignment 6.3 (CNN + Transfer learning): 3pts
+Assignment 6.4 (Foundation models): 3pts
 
 ---
 
