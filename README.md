@@ -235,12 +235,9 @@ Foundation-model overview
 **Dataset:**  [Microsoft Cats and Dogs](https://www.microsoft.com/en-us/download/details.aspx?id=54765)  
 **Model, Callbacks and Optimizers:** [`The Sequential model (Keras)`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html), [`VGG16 function`](https://keras.io/api/applications/vgg/#vgg16-function), [`EarlyStopping`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping), [Dropout Layer](https://keras.io/api/layers/regularization_layers/dropout/)
 
-*CNN fundamentals, transfer learning, and foundation-model labs coming soon.*
 
-Assignment 6.1 (MLP + Excel): 1pt
-Assignment 6.2 (Keras + TensorBoard): 2pts
-Assignment 6.3 (CNN + Transfer learning): 3pts
-Assignment 6.4 (Foundation models): 3pts
+Assignment 6.1 (MLP + Excel): 4pt    
+Assignment 6.3 (CNN + Transfer learning): 6pts  
 
 ---
 
