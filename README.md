@@ -77,8 +77,7 @@ Scheduling and resource allocation
 
 **Notebooks:**
 
-- [Lecture and Lab 2: Constraint Programming and Scheduling](./Unit%202.%20Constraint%20Programming%2C%20Optimization%2C%20and%20Decision%20Support/Lecture%20and%20Lab%202%20-%20Constraint%20Programming%20and%20Scheduling.ipynb)
-- [Instructor solution: Unit 2 lab](./Unit%202.%20Constraint%20Programming%2C%20Optimization%2C%20and%20Decision%20Support/Instructor%20Solutions%20-%20Unit%202.ipynb)
+- [Constraint Programming and Scheduling](./Unit%202.%20Constraint%20Programming%2C%20Optimization%2C%20and%20Decision%20Support/Constraint%20Programming%20and%20Scheduling.ipynb)
 
 ---
 
@@ -97,8 +96,7 @@ Q-learning
 
 **Notebooks:**
 
-- [Lecture and Lab 3: Markov Decision Processes and Q-Learning](./Unit%203.%20Sequential%20Decision-Making%20and%20Reinforcement%20Learning/Lecture%20and%20Lab%203%20-%20GridWorld%20and%20Q-Learning.ipynb)
-- [Instructor solution: Unit 3 lab](./Unit%203.%20Sequential%20Decision-Making%20and%20Reinforcement%20Learning/Instructor%20Solutions%20-%20Unit%203.ipynb)
+- [GridWorld and Q-Learning](./Unit%203.%20Sequential%20Decision-Making%20and%20Reinforcement%20Learning/GridWorld%20and%20Q-Learning.ipynb)
 
 ---
 
@@ -117,10 +115,9 @@ Inference under uncertainty
 
 **Notebooks:**
 
-- [Lecture and Lab 4: Bayesian Reasoning and Spam Decisions](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Lecture%20and%20Lab%204%20-%20Bayes%20and%20Spam%20Decisions.ipynb)
-- [Instructor solution: Unit 4 lab](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Instructor%20Solutions%20-%20Unit%204.ipynb)
+- [Bayes and Spam Decisions](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Bayes%20and%20Spam%20Decisions.ipynb)
 
-The Unit 2–4 lecture and lab notebooks use only the Python standard library so students can focus on the AI ideas without setup. The libraries listed above are optional extensions for later work.
+The Unit 2–4 notebooks use only the Python standard library so students can focus on the AI ideas without setup. The libraries listed above are optional extensions for later work.
 
 ---
 
@@ -142,24 +139,24 @@ Explainability and error analysis
 #### 5.1. Exploratory data analysis (EDA)
 
    ##### *Titanic*  
-   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.1%20Exploratory%20data%20analysis/Test%20-%20An%C3%A1lisis%20exploratorio%20de%20datos%20del%20Titanic.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/bp75s8ta3pcf9mz)  
 
    - **Assignment 5.1**: Hipotesis testing and EDA on the Titanic dataset.
 
    ##### *California Housing Prices*  
-   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Test%20-%20Análisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.1%20Exploratory%20data%20analysis/Test%20-%20An%C3%A1lisis%20exploratorio%20con%20los%20datos%20de%20California%20Housing%20Prices.ipynb)
 
-   - **Assignment 5.2**: EDA on the California Housing Prices dataset with Profile Report and solved [quiz](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/1.%20Exploratory%20data%20analysis%20(EDA)/Quiz%20(Data%20Profiler).docx).
+   - **Assignment 5.2**: EDA on the California Housing Prices dataset with Profile Report and quiz.
    
 #### 5.2. Feature engineering
 
    *Handling outliers and group-wise operations (e-commerce)*  
-   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/2.%20Data%20pre-processing/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.2%20Feature%20engineering/Test%20-%20Manejo%20de%20outliers%20y%20operaciones%20por%20grupo%20para%20transacciones%20e-commerce.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/e9he403kigpezsd) 
 
    *Feature scaling and normalization*  
-   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.2%20Feature%20engineering/The%20importance%20of%20scaling%20and%20balancing%20data.ipynb)  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.2%20Feature%20engineering/The%20importance%20of%20scaling%20and%20balancing%20data.ipynb)
    **Dataset:**  [UCI ML Wine Data Set](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
 
    - **Assignment 5.3**: Handling outliers and group-wise operations on e-commerce dataset. 
@@ -167,7 +164,7 @@ Explainability and error analysis
 #### 5.3. Unsupervised learning
 
    $k$-Means customer segmentation  
-   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/blob/main/3.%20Unsupervised%20Learning/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.3%20Unsupervised%20learning/5.3.1%20k-Means/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/vlp33mhb137mnkl)  
 
    - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. Pick any database from [here](https://www.datosabiertos.gob.ec) (***presentation required***).
@@ -177,7 +174,7 @@ Explainability and error analysis
    *Classification*
 
    $k$-NN on the Iris dataset  
-   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20Learning/IRIS%20Classification%20with%20kNN.ipynb)
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20learning/5.4.1%20k-NN/IRIS%20Classification%20with%20k-NN.ipynb)
    [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/9rmsg0i4fiocn1d)  
    **Dataset:** [Iris](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)  
    **Model:** [`KNeighborsClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
@@ -185,19 +182,19 @@ Explainability and error analysis
    - **Assignment 5.5**: $k$-NN on your database with the best hyperparameter value $k$ (***presentation required***).
 
 Error analysis — evaluation metrics  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20Learning/Metrics.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./resources/miscellaneous/Metrics.ipynb)
 
 Regression — linear regression to predict medical charges  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20learning/5.4.2%20Linear%20Regressor/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
 
 Classification — tree-based models  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Tree-based%20models.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./resources/miscellaneous/Tree-based%20models.ipynb)
 
 Classification — ensemble models  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Ensemble%20Models.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./resources/miscellaneous/Ensemble%20Models.ipynb)
 
 Explainability — SHAP and LIME  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/Explainable%20AI%20(SHAP%20and%20LIME).ipynb)
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./resources/miscellaneous/Explainable%20AI%20(SHAP%20and%20LIME).ipynb)
 
 Assignment 5.1 (Titanic): 1pt  
 Assignment 5.2 (California + quiz): 2pt  
@@ -229,7 +226,7 @@ Foundation-model overview
 **Model:** [`MLPClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
 
 #### 6.2. Predicting diabetes with a Keras' sequential Neural Network + TensorBoard  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](https://github.com/eugeniomorocho/ArtificialIntelligence/blob/main/Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/Predicting%20diabetes%20with%20a%20Keras%20NN.ipynb) 
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%206.%20Neural%20Models%2C%20Vision%2C%20and%20Foundation%20Models/6.2%20The%20Sequential%20Model%20(Neural%20Network)/Predicting%20diabetes%20with%20a%20Keras%20NN.ipynb)
 [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/3rm32wsg6q369no)  
 **Dataset:**  [Pima Indians Diabetes](https://github.com/allisonhorst/palmerpenguins)  
 **Model, Callbacks and Optimizers:** [`The Sequential model (Keras)`](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html), [`TensorBoard`](https://www.tensorflow.org/tensorboard), [`EarlyStopping`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping), [`Keras Tuner`](https://keras.io/keras_tuner/)
