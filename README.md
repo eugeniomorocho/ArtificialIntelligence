@@ -77,7 +77,8 @@ Scheduling and resource allocation
 
 **Notebooks:**
 
-*Coming soon.*
+- [Lecture and Lab 2: Constraint Programming and Scheduling](./Unit%202.%20Constraint%20Programming%2C%20Optimization%2C%20and%20Decision%20Support/Lecture%20and%20Lab%202%20-%20Constraint%20Programming%20and%20Scheduling.ipynb)
+- [Instructor solution: Unit 2 lab](./Unit%202.%20Constraint%20Programming%2C%20Optimization%2C%20and%20Decision%20Support/Instructor%20Solutions%20-%20Unit%202.ipynb)
 
 ---
 
@@ -96,7 +97,8 @@ Q-learning
 
 **Notebooks:**
 
-*Coming soon.*
+- [Lecture and Lab 3: Markov Decision Processes and Q-Learning](./Unit%203.%20Sequential%20Decision-Making%20and%20Reinforcement%20Learning/Lecture%20and%20Lab%203%20-%20GridWorld%20and%20Q-Learning.ipynb)
+- [Instructor solution: Unit 3 lab](./Unit%203.%20Sequential%20Decision-Making%20and%20Reinforcement%20Learning/Instructor%20Solutions%20-%20Unit%203.ipynb)
 
 ---
 
@@ -115,7 +117,10 @@ Inference under uncertainty
 
 **Notebooks:**
 
-*Coming soon.*
+- [Lecture and Lab 4: Bayesian Reasoning and Spam Decisions](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Lecture%20and%20Lab%204%20-%20Bayes%20and%20Spam%20Decisions.ipynb)
+- [Instructor solution: Unit 4 lab](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Instructor%20Solutions%20-%20Unit%204.ipynb)
+
+The Unit 2–4 lecture and lab notebooks use only the Python standard library so students can focus on the AI ideas without setup. The libraries listed above are optional extensions for later work.
 
 ---
 
