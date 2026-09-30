@@ -39,19 +39,11 @@ Depending on the dataset, consider:
 - Irrelevant features
 - Possible data leakage
 
-Create an appropriate **training/validation strategy**.
-
-Your decisions should be briefly explained in the notebook.
-
 ---
 
 ## Part 3 — Baseline
 
 Implement a simple **baseline model**.
-
-Evaluate it using an appropriate validation strategy and report the result.
-
-The baseline will serve as a reference for your experiments.
 
 ---
 
@@ -59,32 +51,13 @@ The baseline will serve as a reference for your experiments.
 
 Experiment with at least **two Machine Learning models**.
 
-You may use models such as:
+You may use any AI model such as:
 
-- Logistic Regression
 - K-Nearest Neighbors
-- Decision Trees
-- Random Forest
-- Support Vector Machines
 - Neural Networks / MLP
-- Other appropriate Machine Learning models
+- etc.
 
-You are free to select the models you consider appropriate for the problem.
-
-For each relevant experiment, record the model and validation result.
-
-Example:
-
-| Model | Validation Metric | Notes |
-|---|---:|---|
-| Baseline | ... | ... |
-| Model 1 | ... | ... |
-| Model 2 | ... | ... |
-| Final Model | ... | ... |
-
-You do **not** need to try every possible model.
-
-Focus on making reasonable experimental decisions.
+You are free to select the models you consider appropriate for the problem, even if they were not covered in class.
 
 ---
 
@@ -97,19 +70,6 @@ Create the required:
 `submission.csv`
 
 Upload it to Kaggle and record your score.
-
-### Final results
-
-**Selected model:**  
-...
-
-**Validation score:**  
-...
-
-**Kaggle score:**  
-...
-
-Briefly explain why you selected this model.
 
 The model reported here must be the same model explained in your video.
 
@@ -145,14 +105,9 @@ Your explanation must include:
 
 For example, depending on your model, you could explain concepts such as:
 
-- Logistic Regression → linear combination, sigmoid, probability, loss
-- KNN → distance and neighbor-based decision
-- Decision Tree → entropy, Gini impurity, information gain
-- Random Forest → decision trees, sampling, feature selection, aggregation
-- SVM → separating hyperplane and margin
-- MLP → weighted sums, activation functions, loss, and backpropagation
-
-You do **not** need to derive all equations from scratch.
+- KNN → distance, neighbor-based decision, etc.
+- MLP → weighted sums, activation functions, loss,backpropagation, hyperparameter tuning, etc.
+- etc.
 
 The important part is to demonstrate that you understand:
 
@@ -177,7 +132,7 @@ Explain the model **in your own words**.
 Submit:
 
 1. **Jupyter Notebook (`.ipynb`)**
-2. **Kaggle submission / score**
+2. **Screenshots of your Kaggle submission and score**
 3. **Link to your 3-minute video**
 
 The notebook must run from beginning to end and reproduce your reported validation results.
@@ -188,22 +143,18 @@ The notebook must run from beginning to end and reproduce your reported validati
 
 | Component | Weight |
 |---|---:|
-| Problem understanding, data preparation, and validation | 20% |
-| Baseline and experimentation | 20% |
-| Final model and interpretation | 10% |
+| Data preparation | 20% |
+| Justification of baseline model selection and training | 20% |
+| Model results and interpretation | 10% |
 | Kaggle performance on unseen data | 25% |
-| Mathematical explanation video | 25% |
+| Mathematical explanation video (correctness, explanation of equations and variables, connection to implementation) | 25% |
 | **Total** | **100%** |
 
 ### Mathematical Video Evaluation
 
-The video will be evaluated according to:
-
-- **Mathematical correctness — 40%**
-- **Explanation of equations and variables — 30%**
-- **Connection between the mathematics and the implemented model — 30%**
-
 Video production quality, editing, camera quality, or presentation style will **not** affect the grade.
+
+Your camera should be on, and you should be clearly visible in the video.
 
 ---
 
@@ -216,5 +167,3 @@ You will be evaluated on your ability to:
 **Understand the problem → Prepare the data → Validate correctly → Experiment → Generalize to unseen data → Explain the mathematics behind your solution**
 
 A simpler model that is correctly implemented, evaluated, and understood may demonstrate more knowledge than a complex model used without understanding.
-
-You must be able to explain and justify the code, models, preprocessing decisions, experiments, and results included in your submission.
