@@ -71,7 +71,7 @@ Backtracking and pruning
 Constraint propagation  
 Scheduling and resource allocation  
 
-**Libraries:** `Google OR-Tools`
+**Libraries (optional):** `Google OR-Tools`
 
 **Datasets:** University timetables, workforce scheduling datasets
 
