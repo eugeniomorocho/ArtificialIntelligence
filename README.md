@@ -98,6 +98,17 @@ Q-learning
 
 - [GridWorld and Q-Learning](./Unit%203.%20Sequential%20Decision-Making%20and%20Reinforcement%20Learning/GridWorld%20and%20Q-Learning.ipynb)
 
+**Slides:**
+
+- [Lecture 4 slides](./Unit%203.%20Sequential%20Decision-Making%20and%20Reinforcement%20Learning/lecture4.key), slides 67-96, from Harvard's CS50 course.
+
+The remaining material and activity are self-contained in the notebook.
+
+**References:**
+
+- Harvard University, [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/), Lecture 4, slides 67-96.
+- Russell and Norvig, *Artificial Intelligence: A Modern Approach*, 4th edition, Chapters 17 (Sections 17.1 and 17.2.1) and 22 (Sections 22.1, 22.2.3, 22.3.1, and 22.3.3).
+
 ---
 
 ### **Unit 4: Probabilistic Reasoning and Bayesian Decision-Making**
