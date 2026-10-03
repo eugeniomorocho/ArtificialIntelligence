@@ -107,6 +107,7 @@ The remaining material and activity are self-contained in the notebook.
 **References:**
 
 - Harvard University, [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/), Lecture 4, slides 67-96.
+- DeepLizard, [Reinforcement Learning Series Intro - Syllabus Overview](https://deeplizard.com/learn/video/nyjbcRQ-uQ8).
 - Russell and Norvig, *Artificial Intelligence: A Modern Approach*, 4th edition, Chapters 17 (Sections 17.1 and 17.2.1) and 22 (Sections 22.1, 22.2.3, 22.3.1, and 22.3.3).
 
 ---
