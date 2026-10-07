@@ -142,6 +142,12 @@ The remaining material and activity are self-contained in the notebook.
 - Gigerenzer, *Calculated Risks* (2002), on why people misread test results and how natural frequencies (counting imagined cases) make Bayesian reasoning easier.
 
 ---
+### **Midterm Exam**
+
+#### Practice Competition:
+- [Ecuador Infant Malnutrition Risk Prediction](https://www.kaggle.com/t/92494e9f83a942fd982cc9c882c3ee3f)
+
+---
 
 ### **Unit 5: Machine Learning as an AI Component**
 
