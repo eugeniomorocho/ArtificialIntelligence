@@ -116,22 +116,23 @@ The remaining material and activity are self-contained in the notebook.
 
 **Topics:**
 
-- Conditional probability and Bayes' theorem
-- Priors, hit rates, false alarms, and updating beliefs from evidence
+- Possible worlds, joint and conditional probability, independence
+- Priors, evidence, and updating beliefs with Bayes' theorem
 - Decision-making by expected cost
 
 **Libraries:** `pgmpy`, `scikit-learn`, `pandas`
 
-**Datasets:** Small hypothetical AI-writing-detector scenarios used to derive and practice Bayes' theorem
+**Datasets:** Small hypothetical weather scenarios (clouds and rain) used to derive and practice Bayes' theorem
 
 **Notebooks:**
 
-- [Bayes' Theorem: What Does "Flagged" Really Tell Us?](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Bayes%20and%20AI%20Detector%20Decisions.ipynb)
+- [Bayes' Theorem: Clouds in the Morning, Rain in the Afternoon?](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Bayes%20and%20Weather%20Decisions.ipynb)
 
 **References:**
 
 - Russell and Norvig, *Artificial Intelligence: A Modern Approach*, 4th edition, Chapters 12–13 (probabilistic reasoning) and 16 (decision-making).
 - Downey, *Think Bayes*, 2nd edition, [online textbook](https://allendowney.github.io/ThinkBayes2/), for a practical introduction to Bayesian probability.
+- Harvard CS50, *Introduction to Artificial Intelligence with Python*, [Lecture 2: Uncertainty](https://cs50.harvard.edu/ai/notes/2/), source of the clouds-and-rain example.
 - Gigerenzer, *Calculated Risks* (2002), on why people misread test results and how natural frequencies (counting imagined cases) make Bayesian reasoning easier.
 
 ---
