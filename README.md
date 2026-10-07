@@ -341,9 +341,9 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 [9] [pgmpy Documentation](https://pgmpy.org)
 
-Wed 7, 2026 - Unit 4
-Fri 9, 2026 - Holiday
-Wed 14, 2026 - Midterm Exam
+Wed 7, 2026 - Unit 4  
+Fri 9, 2026 - Holiday  
+Wed 14, 2026 - Midterm Exam  
 Fri 16, 2026 - TICEC2026
 Wed 21, 2026 - Project Proposal Presentation 1
 Fri 23, 2026 - Project Proposal Presentation 2
