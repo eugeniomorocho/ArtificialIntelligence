@@ -145,7 +145,7 @@ The remaining material and activity are self-contained in the notebook.
 ### **Midterm Exam**
 
 #### Practice Competition:
-- [Ecuador Infant Malnutrition Risk Prediction](https://www.kaggle.com/t/92494e9f83a942fd982cc9c882c3ee3f)
+- [Ecuador Infant Malnutrition Risk Prediction](https://www.kaggle.com/t/2c861d2c581f465db4b3ab168f947551)
 
 ---
 
