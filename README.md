@@ -128,6 +128,12 @@ The remaining material and activity are self-contained in the notebook.
 
 - [Bayes' Theorem: Clouds in the Morning, Rain in the Afternoon?](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/Bayes%20and%20Weather%20Decisions.ipynb)
 
+**Slides:**
+
+- [Lecture 2 slides](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/lecture2.key), from Harvard's CS50 course.
+
+The remaining material and activity are self-contained in the notebook.
+
 **References:**
 
 - Russell and Norvig, *Artificial Intelligence: A Modern Approach*, 4th edition, Chapters 12–13 (probabilistic reasoning) and 16 (decision-making).
