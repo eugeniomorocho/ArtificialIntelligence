@@ -147,6 +147,32 @@ The remaining material and activity are self-contained in the notebook.
 #### Practice Competition:
 - [Ecuador Infant Malnutrition Risk Prediction](https://www.kaggle.com/t/2c861d2c581f465db4b3ab168f947551)
 
+#### Exam Competition:
+- [Credit Score Prediction](https://www.kaggle.com/t/87cc03bb9e7d4864aee4ab215c646638)
+
+##### Time Allocation
+
+- **90 min:** Develop, train, and submit your model to Kaggle.
+- **30 min:** Record your video (max. 5 min) and submit deliverables to Moodle.
+
+##### Grading (100%)
+
+| Criterion | Weight | Description |
+|---|---:|---|
+| Kaggle Performance | 30% | Final position on the private leaderboard. |
+| Data Processing Explanation | 25% | Explain and justify every cleaning/transformation step. **-10 points** for missing explanations; **-15 points** for missing/incorrect justifications. |
+| Model Explanation | 35% | Explain how the algorithm works, code line by line, and all hyperparameters. **-20 points** for missing algorithm explanations; **-15 points** for missing/incorrect code or parameter explanations. |
+| Code Reproducibility | 10% | Working, concise notebook that reproduces the solution. |
+
+##### Moodle Deliverables
+1. **GitHub repository URL:** Include your complete Jupyter Notebook (`.ipynb`) and instructions to reproduce the solution.
+2. **Video (max. 5 min):** Screen recording explaining your code line by line, preprocessing decisions, model principles, and hyperparameters (keep your code concise: you must explain every line in your video).
+
+##### Important Rules
+- Individual work; any classification algorithm is allowed.
+- **Late submissions receive zero.** Submit predictions to Kaggle within 90 minutes and both Moodle deliverables within 2 hours.
+- Students are responsible for video recording/conversion, GitHub access, and uploads. Technical issues will not justify extensions.
+
 ---
 
 ### **Unit 5: Machine Learning as an AI Component**
