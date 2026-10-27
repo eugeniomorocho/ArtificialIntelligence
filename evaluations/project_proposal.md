@@ -11,10 +11,6 @@ You may also combine this project with a problem or topic from **another course 
 - Obtain permission from the other instructor.
 - The work submitted to this course must clearly address an **Artificial Intelligence research question**.
 
-If you do not have a project idea, you may select **Project 1, 2, or 4** from:
-
-https://www.deeparcresearch.com/open-projects
-
 ---
 
 ## 1. Research Problem
@@ -249,3 +245,27 @@ A good project has:
 **A clear problem + relevant literature + a justified baseline + a reproducible methodology + appropriate metrics + experimental evidence + a clear contribution.**
 
 You must understand and be able to explain every component of your project, including the code, methodology, diagram, experiments, and results.
+
+---
+
+## 11. Research Proposal Rubric (10 points)
+
+| Criterion | Points | Full-credit expectations |
+|---|---:|---|
+| Problem statement and research question | 2 | Defines a clear, focused, relevant problem and an answerable research question. |
+| Literature review and contribution | 2 | Uses relevant, credible sources; identifies a gap or limitation; explains the project's expected contribution. |
+| Methodology and system design | 2 | Presents a coherent, justified methodology and a clear diagram of the proposed system or workflow. |
+| Preliminary results and experimental plan | 2 | Reports preliminary results where available and specifies appropriate data, baseline(s), metrics, and experiments to test the research question. |
+| Feasibility, reproducibility, and format | 2 | Provides a realistic schedule and resources; describes how results will be reproduced; follows the required MDPI format and includes the repository link. |
+| **Total** | **10** | |
+
+## 12. Final Project Presentation Rubric (10 points)
+
+| Criterion | Points | Full-credit expectations |
+|---|---:|---|
+| Problem, motivation, and contribution | 2 | Clearly explains the research problem, its relevance, and the project's contribution. |
+| Methodology and system design | 2 | Clearly and accurately presents the implemented methodology and system or workflow. |
+| Experiments and results | 2 | Presents complete experiments, appropriate benchmarks and metrics, and accurate results. |
+| Analysis and conclusions | 2 | Interprets results, addresses failure cases and limitations, and draws conclusions supported by evidence. |
+| Communication and questions | 2 | Delivers a clear, well-organized presentation and confidently answers questions, demonstrating understanding of the work. |
+| **Total** | **10** | |
