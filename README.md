@@ -26,7 +26,7 @@ This repository is designed to provide you with hands-on experience and in-depth
 
 - `Python 3.x` as the interpreter
 - Additional dependencies specified in each week's lab instructions
-- Create a [GitHub](https://github.com) repository for submitting your assignments and add `@eugeniomorocho` as collaborator.
+- Create a [GitHub](https://github.com) repository for submitting your assignments. If your repository is private, add `@eugeniomorocho` as collaborator.
 
 ## Minimum Contents
 
