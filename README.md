@@ -294,7 +294,8 @@ Foundation-model overview
 
 
 Assignment 6.1 (MLP + Excel): 4pt    
-Assignment 6.3 (CNN + Transfer learning): 6pts  
+Assignment 6.3 (CNN + Transfer learning): 3pts  
+Assignment 6.4 (Roboflow for YOLO retraining: 3pts: 
 
 ---
 
