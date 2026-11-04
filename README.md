@@ -131,6 +131,7 @@ The remaining material and activity are self-contained in the notebook.
 **Slides:**
 
 - [Lecture 2 slides](./Unit%204.%20Probabilistic%20Reasoning%20and%20Bayesian%20Decision-Making/lecture2.key), from Harvard's CS50 course.
+- [Complementary slides (Canva)](https://canva.link/x1c7twl3qemaa63)
 
 The remaining material and activity are self-contained in the notebook.
 
