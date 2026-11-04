@@ -1,0 +1,4 @@
+Tipo,Mensaje,Veces registradas
+RuntimeWarning,divide by zero encountered in matmul,30
+RuntimeWarning,invalid value encountered in matmul,30
+RuntimeWarning,overflow encountered in matmul,30

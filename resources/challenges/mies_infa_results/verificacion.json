@@ -1,0 +1,15 @@
+{
+  "all_notebook_code_cells_executed": 9,
+  "training_rows_preserved": 70000,
+  "kaggle_rows_and_ids_preserved": 30000,
+  "training_labels_unchanged": true,
+  "private_test_labels_read": false,
+  "cleaning_edge_cases_checked": true,
+  "original_input_csvs_modified": false,
+  "numeric_outputs_checked_finite": true,
+  "local_holdout_rows": 14000,
+  "selected_model": "kNN búsqueda F1 macro",
+  "holdout_macro_f1": 0.5167633669252977,
+  "holdout_true_positives": 214,
+  "holdout_false_positives": 1453
+}

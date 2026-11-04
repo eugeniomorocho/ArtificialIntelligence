@@ -1,0 +1,13 @@
+Conjunto,Columna,Faltantes originales,Valores invalidados,Faltantes tras limpieza
+X_train,edad_meses,0,7084,7084
+X_train,sexo,0,0,0
+X_train,region,0,0,0
+X_train,nivel_educacion_madre,0,0,0
+X_train,peso_kg,3469,684,4153
+X_train,talla_cm,7049,0,7049
+X_test,edad_meses,0,2998,2998
+X_test,sexo,0,0,0
+X_test,region,0,0,0
+X_test,nivel_educacion_madre,0,0,0
+X_test,peso_kg,1483,331,1814
+X_test,talla_cm,2951,0,2951
