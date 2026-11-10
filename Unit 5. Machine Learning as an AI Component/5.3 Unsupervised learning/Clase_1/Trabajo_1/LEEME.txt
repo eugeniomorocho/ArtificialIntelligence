@@ -1,0 +1,26 @@
+TRABAJO PRÁCTICO — SEMANA 1
+Versión del 29 de septiembre de 2026.
+
+La solución completa, incluidos el generador de datos, código y resultados interpretados, está dentro del Word Escenario de estudio. Esta carpeta contiene copias ejecutables.
+
+EJECUCIÓN
+Requiere Python 3.12. Abre una terminal en esta carpeta:
+python3 -m pip install -r requirements.txt
+python3 trabajo_completo.py
+
+trabajo_completo.py genera los CSV y ejecuta toda la solución.
+generar_datos.py genera solamente los datos.
+solucion_practica.py analiza los CSV existentes.
+Resolucion_practica.ipynb incluye generación y solución; ejecutar las celdas en orden. También contiene las salidas e interpretación de referencia. Si no tienes Jupyter, puedes instalarlo con python3 -m pip install jupyterlab y abrirlo con python3 -m jupyterlab.
+En Windows puede usarse python en lugar de python3.
+La generación escribe archivos con nombres fijos en la carpeta actual; ejecuta una copia en una carpeta de trabajo. Los CSV resultado_*.csv son salidas, no entradas.
+
+DATOS E INTERPRETACIÓN
+usuarios_app.csv: 600 usuarios sintéticos. Frecuencia de apertura: aperturas en 30 días; funciones usadas: funciones distintas; hora central: hora representativa entre 0 y 24, transformada a seno y coseno. Los perfiles no son etiquetas de negocio verdaderas. El ARI mide acuerdo entre particiones, no exactitud.
+
+ACTIVIDAD COMPLEMENTARIA
+Comparación breve de K-Means y clustering jerárquico Ward con los mismos 600 usuarios, la misma transformación y el mismo número de grupos. Tabla de métricas y conclusión de 80–120 palabras; tiempo orientativo adicional: 10–15 minutos.
+
+FUENTE
+CSV, código y textos sintéticos: elaboración propia para uso didáctico. No se descargan datasets. Los archivos requirements.txt registran las versiones con las que se verificaron los resultados. La instalación inicial de bibliotecas requiere internet si no están instaladas.
+Los ejemplos de clase se encuentran en ../Clase.

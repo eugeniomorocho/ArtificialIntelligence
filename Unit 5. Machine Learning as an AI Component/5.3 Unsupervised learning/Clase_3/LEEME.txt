@@ -1,0 +1,10 @@
+EJEMPLOS DE CLASE
+
+El código completo está incluido en el Word Tema de esta semana.
+Para ejecutarlo, abre una terminal en esta carpeta y usa:
+python3 -m pip install -r requirements.txt
+python3 ejemplos_clase.py
+También puedes abrir Ejemplos_clase.ipynb en Jupyter y ejecutar la celda.
+Las imágenes se guardan en Figuras. Los datos vienen incluidos en las bibliotecas o se generan localmente; no se descargan datasets.
+
+Requiere Python 3.12. En Windows puede usarse python en lugar de python3. Para instalar Jupyter opcionalmente: python3 -m pip install jupyterlab. Las bibliotecas se instalan una vez; no se descargan datasets. Wine y Digits, cuando se utilizan, forman parte de scikit-learn. El notebook incluye el código íntegro y las figuras de referencia.
