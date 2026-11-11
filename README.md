@@ -314,7 +314,12 @@ AI safety and hallucinations
 
 **Notebooks:**
 
-*Coming soon.*
+- Hugging Face
+- OpenAI, DeepSeek API
+
+**Assignment:**
+
+Work individually. Choose a real-world problem where your solution clearly adds value (you must start your presentation by explaining that value). Identify two models that could solve it—either from Hugging Face, OpenAI, or both—and implement both in a Python notebook. Design your own evaluation and justify how you will compare them. Compare performance, costs, and limitations. On Friday, give a short live demonstration using examples you prepared, and submit your notebook, results, and a brief, evidence-based conclusion.
 
 ---
 
