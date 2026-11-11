@@ -306,9 +306,13 @@ Assignment 6.4 (Roboflow for YOLO retraining: 3pts: 
 Embeddings  
 Semantic search  
 Retrieval-Augmented Generation (RAG)  
-AI safety and hallucinations  
+AI safety and hallucinations 
 
-**Libraries:** `Sentence Transformers`, `FAISS`, `Streamlit`
+**Slides:**
+
+https://canva.link/ry6lu0l6z208rqd
+
+**Libraries:** `Sentence Transformers`, `OpenAI API`
 
 **Datasets:** Course notebooks, technical-document repositories
 
