@@ -325,6 +325,11 @@ https://canva.link/ry6lu0l6z208rqd
 
 Work individually. Choose a real-world problem where your solution clearly adds value (you must start your presentation by explaining that value). Identify two models that could solve it—either from Hugging Face, OpenAI, or both—and implement both in a Python notebook. Design your own evaluation and justify how you will compare them. Compare performance, costs, and limitations. On Friday, give a short live demonstration using examples you prepared, and submit your notebook, results, and a brief, evidence-based conclusion.
 
+- **3 pts — Problem and value.** Open by explaining the real-world problem, who benefits, and why the solution is worth using.
+- **3 pts — Live demo.** Demonstrate both models on Friday using prepared examples.
+- **1 pt — Implementation.** Submit a working Python notebook with both models from Hugging Face, OpenAI, or both.
+- **2 pt — Evaluation design.** Justify how you compare the models fairly.
+- **1 pts — Results and conclusion.** Submit a comparison of performance, costs, and limitations, with a brief evidence-based conclusion.
 ---
 
 ### **Unit 8: Market-Ready AI Prototype and Final Project**
