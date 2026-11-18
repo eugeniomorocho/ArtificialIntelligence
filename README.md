@@ -347,6 +347,8 @@ Deployment and technical communication
 
 **Notebooks:**
 
+[Streamlit App](https://knn-inference-app.streamlit.app)
+
 *Coming soon.*
 
 ---
