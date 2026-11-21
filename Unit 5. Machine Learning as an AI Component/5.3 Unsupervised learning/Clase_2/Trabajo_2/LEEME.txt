@@ -1,0 +1,26 @@
+TRABAJO PRÁCTICO — SEMANA 2
+Versión del 29 de septiembre de 2026.
+
+La solución completa, incluidos el generador de datos, código y resultados interpretados, está dentro del Word Escenario de estudio. Esta carpeta contiene copias ejecutables.
+
+EJECUCIÓN
+Requiere Python 3.12. Abre una terminal en esta carpeta:
+python3 -m pip install -r requirements.txt
+python3 trabajo_completo.py
+
+trabajo_completo.py genera los CSV y ejecuta toda la solución.
+generar_datos.py genera solamente los datos.
+solucion_practica.py analiza los CSV existentes.
+Resolucion_practica.ipynb incluye generación y solución; ejecutar las celdas en orden. También contiene las salidas e interpretación de referencia. Si no tienes Jupyter, puedes instalarlo con python3 -m pip install jupyterlab y abrirlo con python3 -m jupyterlab.
+En Windows puede usarse python en lugar de python3.
+La generación escribe archivos con nombres fijos en la carpeta actual; ejecuta una copia en una carpeta de trabajo. Los CSV resultado_*.csv son salidas, no entradas.
+
+DATOS E INTERPRETACIÓN
+catalogo_productos.csv: 120 productos sintéticos, seis categorías y descripciones con repeticiones deliberadas. Una similitud igual a 1 puede reflejar esa repetición. transacciones_sinteticas.csv: 200 transacciones; monto_usd, compras_24h y antiguedad_cuenta_dias son entradas, y transaccion_id es solo identificador. No hay etiquetas de fraude. El puntaje es -score_samples: mayor valor significa mayor rareza. contamination=0.05 fija un umbral supuesto, no una prevalencia real.
+
+ACTIVIDAD COMPLEMENTARIA
+Aplicación breve de Isolation Forest a 200 transacciones sintéticas, además del ejercicio principal de TF-IDF y similitud coseno. Cinco casos ordenados por rareza, comparación con medianas y comentario de 3–5 frases; tiempo orientativo adicional: 15 minutos.
+
+FUENTE
+CSV, código y textos sintéticos: elaboración propia para uso didáctico. No se descargan datasets. Los archivos requirements.txt registran las versiones con las que se verificaron los resultados. La instalación inicial de bibliotecas requiere internet si no están instaladas.
+Los ejemplos de clase se encuentran en ../Clase.

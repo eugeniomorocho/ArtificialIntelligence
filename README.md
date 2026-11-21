@@ -218,15 +218,36 @@ Explainability and error analysis
 
 #### 5.3. Unsupervised learning
 
-   $k$-Means customer segmentation  
+#### Clustering
+
+   $k$-Means for customer segmentation  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.3%20Unsupervised%20learning/5.3.1%20k-Means/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20KMeans.ipynb)
-   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/vlp33mhb137mnkl)  
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/vlp33mhb137mnkl) 
+
+   Hierarchical clustering for customer segmentation  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.3%20Unsupervised%20learning/5.3.1%20k-Means/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20Hierarchical.ipynb)
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/0gq1x4j6f9kqv1l)
+
+   DBSCAN for customer segmentation  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.3%20Unsupervised%20learning/5.3.1%20k-Means/Unsupervised%20Learning%20-%20Agrupamiento%20de%20clientes%20de%20un%20centro%20comercial%20con%20DBSCAN.ipynb)
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/0gq1x4j6f9kqv1l)
 
    - **Assignment 5.4**: Search the optimal value of $k$ for $k$-Means clustering on a new dataset. Pick any database from [here](https://www.datosabiertos.gob.ec) (***presentation required***).
 
+##### Dimensionality reduction
+
+   PCA on the Palmer Penguins dataset  
+   [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.3%20Unsupervised%20learning/5.3.2%20PCA/Unsupervised%20Learning%20-%20Reducci%C3%B3n%20de%20dimensionalidad%20con%20PCA.ipynb)
+   [![View on Canva](https://img.shields.io/badge/View%20on-Canva-7D2AE8?logo=canva&logoColor=white)](https://canva.link/0gq1x4j6f9kqv1l)  
+   **Dataset:**  [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/)
+
+##### 
+
+#####
+
 #### 5.4. Supervised learning
 
-   *Classification*
+##### Classification
 
    $k$-NN on the Iris dataset  
    [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20learning/5.4.1%20k-NN/IRIS%20Classification%20with%20k-NN.ipynb)
@@ -239,9 +260,6 @@ Explainability and error analysis
 Error analysis — evaluation metrics  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./resources/miscellaneous/Metrics.ipynb)
 
-Regression — linear regression to predict medical charges  
-[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20learning/5.4.2%20Linear%20Regressor/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
-
 Classification — tree-based models  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./resources/miscellaneous/Tree-based%20models.ipynb)
 
@@ -250,6 +268,11 @@ Classification — ensemble models
 
 Explainability — SHAP and LIME  
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./resources/miscellaneous/Explainable%20AI%20(SHAP%20and%20LIME).ipynb)
+
+##### Regression  
+
+Linear regression to predict medical charges  
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github)](./Unit%205.%20Machine%20Learning%20as%20an%20AI%20Component/5.4%20Supervised%20learning/5.4.2%20Linear%20Regressor/Supervised%20Learning%20-%20Regresi%C3%B3n%20lineal%20para%20predecir%20cargos%20m%C3%A9dicos.ipynb)
 
 Assignment 5.1 (Titanic): 1pt  
 Assignment 5.2 (California + quiz): 2pt  

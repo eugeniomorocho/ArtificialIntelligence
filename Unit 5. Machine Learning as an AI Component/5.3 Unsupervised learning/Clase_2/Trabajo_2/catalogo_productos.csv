@@ -1,0 +1,121 @@
+producto_id,nombre,categoria,descripcion
+P001,Telefonia modelo 1,telefonia,telefono celular smartphone pantalla bateria camara compacto
+P002,Audio modelo 2,audio,audifonos auriculares bluetooth sonido microfono recargable
+P003,Computacion modelo 3,computacion,computador portatil laptop memoria teclado pantalla resistente
+P004,Cocina modelo 4,cocina,licuadora cocina vaso potencia cuchillas portatil
+P005,Deporte modelo 5,deporte,zapatillas calzado correr deporte ligero nuevo
+P006,Hogar modelo 6,hogar,lampara escritorio luz lectura regulable compacto
+P007,Telefonia modelo 7,telefonia,telefono celular smartphone pantalla bateria camara recargable
+P008,Audio modelo 8,audio,audifonos auriculares bluetooth sonido microfono resistente
+P009,Computacion modelo 9,computacion,computador portatil laptop memoria teclado pantalla portatil
+P010,Cocina modelo 10,cocina,licuadora cocina vaso potencia cuchillas nuevo
+P011,Deporte modelo 11,deporte,zapatillas calzado correr deporte ligero compacto
+P012,Hogar modelo 12,hogar,lampara escritorio luz lectura regulable recargable
+P013,Telefonia modelo 13,telefonia,telefono celular smartphone pantalla bateria camara resistente
+P014,Audio modelo 14,audio,audifonos auriculares bluetooth sonido microfono portatil
+P015,Computacion modelo 15,computacion,computador portatil laptop memoria teclado pantalla nuevo
+P016,Cocina modelo 16,cocina,licuadora cocina vaso potencia cuchillas compacto
+P017,Deporte modelo 17,deporte,zapatillas calzado correr deporte ligero recargable
+P018,Hogar modelo 18,hogar,lampara escritorio luz lectura regulable resistente
+P019,Telefonia modelo 19,telefonia,telefono celular smartphone pantalla bateria camara portatil
+P020,Audio modelo 20,audio,audifonos auriculares bluetooth sonido microfono nuevo
+P021,Computacion modelo 21,computacion,computador portatil laptop memoria teclado pantalla compacto
+P022,Cocina modelo 22,cocina,licuadora cocina vaso potencia cuchillas recargable
+P023,Deporte modelo 23,deporte,zapatillas calzado correr deporte ligero resistente
+P024,Hogar modelo 24,hogar,lampara escritorio luz lectura regulable portatil
+P025,Telefonia modelo 25,telefonia,telefono celular smartphone pantalla bateria camara nuevo
+P026,Audio modelo 26,audio,audifonos auriculares bluetooth sonido microfono compacto
+P027,Computacion modelo 27,computacion,computador portatil laptop memoria teclado pantalla recargable
+P028,Cocina modelo 28,cocina,licuadora cocina vaso potencia cuchillas resistente
+P029,Deporte modelo 29,deporte,zapatillas calzado correr deporte ligero portatil
+P030,Hogar modelo 30,hogar,lampara escritorio luz lectura regulable nuevo
+P031,Telefonia modelo 31,telefonia,telefono celular smartphone pantalla bateria camara compacto
+P032,Audio modelo 32,audio,audifonos auriculares bluetooth sonido microfono recargable
+P033,Computacion modelo 33,computacion,computador portatil laptop memoria teclado pantalla resistente
+P034,Cocina modelo 34,cocina,licuadora cocina vaso potencia cuchillas portatil
+P035,Deporte modelo 35,deporte,zapatillas calzado correr deporte ligero nuevo
+P036,Hogar modelo 36,hogar,lampara escritorio luz lectura regulable compacto
+P037,Telefonia modelo 37,telefonia,telefono celular smartphone pantalla bateria camara recargable
+P038,Audio modelo 38,audio,audifonos auriculares bluetooth sonido microfono resistente
+P039,Computacion modelo 39,computacion,computador portatil laptop memoria teclado pantalla portatil
+P040,Cocina modelo 40,cocina,licuadora cocina vaso potencia cuchillas nuevo
+P041,Deporte modelo 41,deporte,zapatillas calzado correr deporte ligero compacto
+P042,Hogar modelo 42,hogar,lampara escritorio luz lectura regulable recargable
+P043,Telefonia modelo 43,telefonia,telefono celular smartphone pantalla bateria camara resistente
+P044,Audio modelo 44,audio,audifonos auriculares bluetooth sonido microfono portatil
+P045,Computacion modelo 45,computacion,computador portatil laptop memoria teclado pantalla nuevo
+P046,Cocina modelo 46,cocina,licuadora cocina vaso potencia cuchillas compacto
+P047,Deporte modelo 47,deporte,zapatillas calzado correr deporte ligero recargable
+P048,Hogar modelo 48,hogar,lampara escritorio luz lectura regulable resistente
+P049,Telefonia modelo 49,telefonia,telefono celular smartphone pantalla bateria camara portatil
+P050,Audio modelo 50,audio,audifonos auriculares bluetooth sonido microfono nuevo
+P051,Computacion modelo 51,computacion,computador portatil laptop memoria teclado pantalla compacto
+P052,Cocina modelo 52,cocina,licuadora cocina vaso potencia cuchillas recargable
+P053,Deporte modelo 53,deporte,zapatillas calzado correr deporte ligero resistente
+P054,Hogar modelo 54,hogar,lampara escritorio luz lectura regulable portatil
+P055,Telefonia modelo 55,telefonia,telefono celular smartphone pantalla bateria camara nuevo
+P056,Audio modelo 56,audio,audifonos auriculares bluetooth sonido microfono compacto
+P057,Computacion modelo 57,computacion,computador portatil laptop memoria teclado pantalla recargable
+P058,Cocina modelo 58,cocina,licuadora cocina vaso potencia cuchillas resistente
+P059,Deporte modelo 59,deporte,zapatillas calzado correr deporte ligero portatil
+P060,Hogar modelo 60,hogar,lampara escritorio luz lectura regulable nuevo
+P061,Telefonia modelo 61,telefonia,telefono celular smartphone pantalla bateria camara compacto
+P062,Audio modelo 62,audio,audifonos auriculares bluetooth sonido microfono recargable
+P063,Computacion modelo 63,computacion,computador portatil laptop memoria teclado pantalla resistente
+P064,Cocina modelo 64,cocina,licuadora cocina vaso potencia cuchillas portatil
+P065,Deporte modelo 65,deporte,zapatillas calzado correr deporte ligero nuevo
+P066,Hogar modelo 66,hogar,lampara escritorio luz lectura regulable compacto
+P067,Telefonia modelo 67,telefonia,telefono celular smartphone pantalla bateria camara recargable
+P068,Audio modelo 68,audio,audifonos auriculares bluetooth sonido microfono resistente
+P069,Computacion modelo 69,computacion,computador portatil laptop memoria teclado pantalla portatil
+P070,Cocina modelo 70,cocina,licuadora cocina vaso potencia cuchillas nuevo
+P071,Deporte modelo 71,deporte,zapatillas calzado correr deporte ligero compacto
+P072,Hogar modelo 72,hogar,lampara escritorio luz lectura regulable recargable
+P073,Telefonia modelo 73,telefonia,telefono celular smartphone pantalla bateria camara resistente
+P074,Audio modelo 74,audio,audifonos auriculares bluetooth sonido microfono portatil
+P075,Computacion modelo 75,computacion,computador portatil laptop memoria teclado pantalla nuevo
+P076,Cocina modelo 76,cocina,licuadora cocina vaso potencia cuchillas compacto
+P077,Deporte modelo 77,deporte,zapatillas calzado correr deporte ligero recargable
+P078,Hogar modelo 78,hogar,lampara escritorio luz lectura regulable resistente
+P079,Telefonia modelo 79,telefonia,telefono celular smartphone pantalla bateria camara portatil
+P080,Audio modelo 80,audio,audifonos auriculares bluetooth sonido microfono nuevo
+P081,Computacion modelo 81,computacion,computador portatil laptop memoria teclado pantalla compacto
+P082,Cocina modelo 82,cocina,licuadora cocina vaso potencia cuchillas recargable
+P083,Deporte modelo 83,deporte,zapatillas calzado correr deporte ligero resistente
+P084,Hogar modelo 84,hogar,lampara escritorio luz lectura regulable portatil
+P085,Telefonia modelo 85,telefonia,telefono celular smartphone pantalla bateria camara nuevo
+P086,Audio modelo 86,audio,audifonos auriculares bluetooth sonido microfono compacto
+P087,Computacion modelo 87,computacion,computador portatil laptop memoria teclado pantalla recargable
+P088,Cocina modelo 88,cocina,licuadora cocina vaso potencia cuchillas resistente
+P089,Deporte modelo 89,deporte,zapatillas calzado correr deporte ligero portatil
+P090,Hogar modelo 90,hogar,lampara escritorio luz lectura regulable nuevo
+P091,Telefonia modelo 91,telefonia,telefono celular smartphone pantalla bateria camara compacto
+P092,Audio modelo 92,audio,audifonos auriculares bluetooth sonido microfono recargable
+P093,Computacion modelo 93,computacion,computador portatil laptop memoria teclado pantalla resistente
+P094,Cocina modelo 94,cocina,licuadora cocina vaso potencia cuchillas portatil
+P095,Deporte modelo 95,deporte,zapatillas calzado correr deporte ligero nuevo
+P096,Hogar modelo 96,hogar,lampara escritorio luz lectura regulable compacto
+P097,Telefonia modelo 97,telefonia,telefono celular smartphone pantalla bateria camara recargable
+P098,Audio modelo 98,audio,audifonos auriculares bluetooth sonido microfono resistente
+P099,Computacion modelo 99,computacion,computador portatil laptop memoria teclado pantalla portatil
+P100,Cocina modelo 100,cocina,licuadora cocina vaso potencia cuchillas nuevo
+P101,Deporte modelo 101,deporte,zapatillas calzado correr deporte ligero compacto
+P102,Hogar modelo 102,hogar,lampara escritorio luz lectura regulable recargable
+P103,Telefonia modelo 103,telefonia,telefono celular smartphone pantalla bateria camara resistente
+P104,Audio modelo 104,audio,audifonos auriculares bluetooth sonido microfono portatil
+P105,Computacion modelo 105,computacion,computador portatil laptop memoria teclado pantalla nuevo
+P106,Cocina modelo 106,cocina,licuadora cocina vaso potencia cuchillas compacto
+P107,Deporte modelo 107,deporte,zapatillas calzado correr deporte ligero recargable
+P108,Hogar modelo 108,hogar,lampara escritorio luz lectura regulable resistente
+P109,Telefonia modelo 109,telefonia,telefono celular smartphone pantalla bateria camara portatil
+P110,Audio modelo 110,audio,audifonos auriculares bluetooth sonido microfono nuevo
+P111,Computacion modelo 111,computacion,computador portatil laptop memoria teclado pantalla compacto
+P112,Cocina modelo 112,cocina,licuadora cocina vaso potencia cuchillas recargable
+P113,Deporte modelo 113,deporte,zapatillas calzado correr deporte ligero resistente
+P114,Hogar modelo 114,hogar,lampara escritorio luz lectura regulable portatil
+P115,Telefonia modelo 115,telefonia,telefono celular smartphone pantalla bateria camara nuevo
+P116,Audio modelo 116,audio,audifonos auriculares bluetooth sonido microfono compacto
+P117,Computacion modelo 117,computacion,computador portatil laptop memoria teclado pantalla recargable
+P118,Cocina modelo 118,cocina,licuadora cocina vaso potencia cuchillas resistente
+P119,Deporte modelo 119,deporte,zapatillas calzado correr deporte ligero portatil
+P120,Hogar modelo 120,hogar,lampara escritorio luz lectura regulable nuevo
